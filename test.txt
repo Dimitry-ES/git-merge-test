@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Second commit on first branch
+=======
+Second commit on second branch
+>>>>>>> dev
